@@ -1,0 +1,103 @@
+!doctype><html>
+<html>
+  <head>
+    <title>
+	   okiki's dream dress 
+	</title>
+	<body bgcolor="black">
+	   <marquee behavior="slide" direction="right"> <font face="algerian" size= "200"><b style="color:white"><span style="font-size: 50px;">😭THE TYPE OF GOWN I WANT😭</span></b></font></marquee>
+	    <br>
+	    <br>
+	   <marquee behavior="slide"  direction="left"> <font face="algerian" size= "50"><b style="color:white"><span style="font-size: 50px;">💕PLEASE SIS AY MAKE IT COME TRUE😭</span></b></u></font></marquee>
+	    <br>
+	    <br>
+	   <marquee behavior="slide"  direction="right"> <font face="algerian" size= "50"><b style="color:white"><span style="font-size: 50px;">🌹A GIRLS DREAM DRESS💖</span></b></u></font></marquee>
+	   <marquee scrollamount="10" scrolldelay="20" truespeed="true"  direction="left"> <font face="algerian" size= "200"><b style="color:white"><span style="font-size: 30px;">😭😭😭😭😭💕💕💕💕💕💖💖💖💖💖🌹🌹🌹🌹😜😜😜😜🤭🤭🤭🤭❤❤❤❤😍😍😍😍😭😭😭😭</span></b></u></font></marquee>
+	    <br>
+	    <br>
+	    <br>
+	    <br>
+	    <br>
+		<center><img src="C:\Users\user\Downloads\one.jpg" alt="one" width="500" height="500"></center>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+		<center><img src="C:\Users\user\Downloads\two.jpg" alt="two" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\three.jpg" alt="three" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\four.jpg" alt="four" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\five.jpg" alt="five" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1>
+		<br>
+        <center><img src="C:\Users\user\Downloads\six.jpg" alt="six" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\seven.jpg" alt="seven" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\eight.jpg" alt="eight" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\nine.jpg" alt="nine" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\ten.jpg" alt="ten" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\eleven.jpg" alt="eleven" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\twelve.jpg" alt="twelve" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\threeten.jpg" alt="threeten" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\fourteen.jpg" alt="fourteen" width="500" height="500"></center></a>
+		<br>
+		<center><h1>💖💖</h1></center>
+		<br>
+        <center><img src="C:\Users\user\Downloads\fifteen.jpg" alt="fifteen" width="500" height="500"></center></a>
+		<br>
+		<br>
+		<h1><b style="color:white"> Sis Ay, see all this beautiful cloths, I have  always wanted to be a princess😭😭😭😭😭 and i dont knnow when next i will get this opportunity </h1>
+		<h1><b style="color:white">Sooo pleaseeeeeeee</h1>
+        <h1><b style="color:white"> thanks so much in advance</h1>
+		<h1><b style="color:white"> my style is'nt exactly here as it was sketched by REGALS but there are similar </h1> 
+		<h1><b style="color:white"> thank you so much once again </h1>
+		<h1><b style="color:white"> I LOVE YOU 💖💖💖💖💖 </h1>
+		<br>
+		<br>
+		<br>
+		<marquee movement = "right"> <font face="algerian" size= "50"><b style="color:white"><span style="font-size: 40px;">💖💖💖💖💖💖💖💖💖💖💖💖💖💖💖</span></b></u></font></marquee>
+		<div class="static-rating">
+         <span class="star checked">★</span>
+         <span class="star checked">★</span>
+         <span class="star checked">★</span>
+         <span class="star">★</span>
+         <span class="star">★</span>
+        </div>
+		<div class="star-rating">
+  <input type="radio" id="star5" name="rating" value="5" /><label for="star5">★</label>
+  <input type="radio" id="star4" name="rating" value="4" /><label for="star4">★</label>
+  <input type="radio" id="star3" name="rating" value="3" /><label for="star3">★</label>
+  <input type="radio" id="star2" name="rating" value="2" /><label for="star2">★</label>
+  <input type="radio" id="star1" name="rating" value="1" /><label for="star1">★</label>
+</div>
